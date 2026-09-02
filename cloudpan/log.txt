@@ -1,0 +1,45 @@
+08-30 18:03:22.018  1295  1556 E ActivityManager:   10% 14326/com.vivo.voicewakeup: 8.3% user + 2.3% kernel / faults: 356 minor
+08-30 18:04:47.563  1295  1556 E ActivityManager:   12% 14326/com.vivo.voicewakeup: 10% user + 2.7% kernel / faults: 633 minor
+08-30 18:12:52.886  1295  1556 E ActivityManager:   14% 14326/com.vivo.voicewakeup: 11% user + 2.3% kernel / faults: 570 minor 15 major
+08-30 18:29:07.022  1295  1556 E ActivityManager:   11% 14326/com.vivo.voicewakeup: 8.3% user + 2.6% kernel / faults: 70 minor
+08-30 18:30:53.887  1295  1556 E ActivityManager:   13% 14326/com.vivo.voicewakeup: 10% user + 2.7% kernel / faults: 79 minor
+08-30 18:52:05.198  1295  1556 E ActivityManager:   12% 14326/com.vivo.voicewakeup: 9.4% user + 2.8% kernel / faults: 457 minor 1 major
+08-31 18:38:40.933  1295  1556 E ActivityManager:   11% 14326/com.vivo.voicewakeup: 7.8% user + 3.3% kernel / faults: 151 minor
+08-31 18:38:45.584  1295  1556 E ActivityManager:   8.9% 14326/com.vivo.voicewakeup: 6.6% user + 2.3% kernel / faults: 79 minor 1 major
+08-31 18:38:52.924  1295  1556 E ActivityManager:   10% 14326/com.vivo.voicewakeup: 9.5% user + 1.2% kernel / faults: 100 minor
+09-01 00:00:07.006   805 25570 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 00:00:07.094   805 25570 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:02:58.775   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:02:58.776   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:02:58.921   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:02:59.779   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:00.675   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:01.273   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:01.624  3249  3282 D _V_VoiceWakeupDaemon: mProcessObserver pid: 14791 mVoicewakeupPid: 14326
+09-01 01:03:02.582   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:02.582   805 32356 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:02.644   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:02.745   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:03.145   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:03.145   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:03.831   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:04.205   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:04.331   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:04.646   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:04.818   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:05.312   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:05.312   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:05.355   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:05.356   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:06.657   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:06.657   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:06.721   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:06.812   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:06.856   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:08.560   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:09.626   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:03:09.627   805 28231 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:53:44.551   805 25570 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 01:53:44.778   805 25570 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 07:03:38.816   805 25570 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
+09-01 07:03:38.855   805 25570 D AudioFlinger: getpackName client name com.vivo.voicewakeup(14326)
